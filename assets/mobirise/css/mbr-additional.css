@@ -2128,10 +2128,10 @@ body {
 }
 .cid-qQNuTnuOMA .mbr-text,
 .cid-qQNuTnuOMA .mbr-section-btn {
-  color: #cccccc;
+  color: #767676;
 }
 .cid-qQNuTnuOMA .mbr-section-title {
-  color: #767676;
+  color: #5b686b;
 }
 .cid-qQNJRDTPXD {
   padding-top: 45px;
@@ -2227,6 +2227,20 @@ body {
   opacity: 0.7;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
+}
+.cid-qReLujk0kj {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(45deg, #b1a374, #7f1933);
+}
+.cid-qReLujk0kj .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-qReLujk0kj H3 {
+  text-align: left;
+}
+.cid-qReLujk0kj H2 {
+  text-align: left;
 }
 .cid-qQmJN5TbES {
   padding-top: 60px;
